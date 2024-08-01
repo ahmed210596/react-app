@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+.card-wrapper{
+    
+    background-color:var(--color-dark); 
+    border-radius: 5px;
+    margin: 10px;
+    padding:15px;
+
+}
+
+
+.most-popular-item-image{
+    width:100%;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+.most-popular-item-content{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.most-popular-item-title{
+    font-size: 14px;
+
+}
+.most-popolar-items{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+
+
+
+
+
+.most-popolar-item{
+    flex: 25%;
+   /* margin-left: 10px;*/
+}
+
+ span{
+
+font-size: 26px;
+  font-weight: 700;
+}
+h4{
+    font-size: 26px;
+    font-weight: 700;  
+}

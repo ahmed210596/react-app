@@ -1,0 +1,16 @@
+ <Card title="Fortnite" category="Legendry" rate="2.8" download="1.8 M" image={popular_02}/>
+
+
+ <Card title="Pubg" category="stream-x" rate="4.5" download="3.8 M" image={popular_03}/>
+       
+<Card title="Data2" category ="Sandbox" rate="3.8" download="5.3 M"  image={popular_01}/>
+<Card title="CS go" category="Battle S" rate="3.9" download="6.1 M" image={popular_01}/>
+       
+
+ <Card title="Fortnite" category="Legendry" rate="2.8" download="1.8 M" image={popular_02}/>
+
+
+<Card title="Pubg" category="stream-x" rate="4.5" download="3.8 M" image={popular_03}/>
+
+<Card title="Data2" category ="Sandbox" rate="3.8" download="5.3 M"  image={popular_01}/>
+<Card title="CS go" category="Battle S" rate="3.9" download="6.1 M" image={popular_01}/>
